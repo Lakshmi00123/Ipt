@@ -22,6 +22,6 @@ public class Length {
 		System.out.println(s4);
 		int length4 = s4.length();
 		System.out.println(length4);
-
+		String temp = "";
 	}
 }
